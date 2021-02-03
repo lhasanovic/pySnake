@@ -8,6 +8,7 @@
 #music2.wav
 #pauzaKraj.wav
 #pauzaPocetak.wav
+#potrebno je instalirati  pygame i numpy biblioteke, tako što odemo na terminal na našem računaru i upišemo 'pip3 install --user --upgrade pip', 'pip3 install --user pygame' i 'pip3 install --user numpy' 
 
 from game import Game
 import menu
